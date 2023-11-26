@@ -65,7 +65,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
       },
     ],
   },
-  {
+  /*{
     title: 'UI Features',
     icon: 'keypad-outline',
     link: '/pages/ui-features',
@@ -87,8 +87,8 @@ export const MENU_ITEMS: NbMenuItem[] = [
         link: '/pages/ui-features/search-fields',
       },
     ],
-  },
-  {
+  },*/
+  /*{
     title: 'Modal & Overlays',
     icon: 'browser-outline',
     children: [
@@ -113,7 +113,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
         link: '/pages/modal-overlays/tooltip',
       },
     ],
-  },
+  },*/
   {
     title: 'Extra Components',
     icon: 'message-circle-outline',
@@ -144,7 +144,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
       },
     ],
   },
-  {
+  /*{
     title: 'Maps',
     icon: 'map-outline',
     children: [
@@ -165,7 +165,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
         link: '/pages/maps/searchmap',
       },
     ],
-  },
+  },*/
   {
     title: 'Charts',
     icon: 'pie-chart-outline',
@@ -184,7 +184,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
       },
     ],
   },
-  {
+  /*{
     title: 'Editors',
     icon: 'text-outline',
     children: [
@@ -197,7 +197,7 @@ export const MENU_ITEMS: NbMenuItem[] = [
         link: '/pages/editors/ckeditor',
       },
     ],
-  },
+  },*/
   {
     title: 'Tables & Data',
     icon: 'grid-outline',
