@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./footer.component.scss'],
   template: `
     <span class="created-by">
-     Avacca - Amarrero (Asignaciones <b></b> 2023)
+     Avaccaaaaaa - Amarrero (Asignaciones <b></b> 2023)
     </span>
     
   `,
